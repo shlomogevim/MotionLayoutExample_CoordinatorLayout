@@ -1,0 +1,2 @@
+rootProject.name = "MotionLayoutExample_CoordinatorLayout"
+include ':app'
